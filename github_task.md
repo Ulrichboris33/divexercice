@@ -1,1 +1,1 @@
-Ceci est un fichier d' exercices
+This is an assignment file.
